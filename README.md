@@ -2,7 +2,7 @@
 
 A tiny native Win32 client for [Navidrome](https://www.navidrome.org/) / Subsonic servers that runs on
 **Windows XP SP2 (32-bit)** on old SSE-only CPUs (Pentium III and up) and still works on Windows 11.
-One C file, no runtime dependencies, about 130 KB executable (fits on a floppy).
+One C file, no runtime dependencies, about 130 KB executable (fits on a floppy). Created with Claude Opus 5.5.
 
 Written for a retro PC that has to play music from a home server over plain HTTP on a local network.
 
