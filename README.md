@@ -6,6 +6,8 @@ One C file, no runtime dependencies, about 130 KB executable (fits on a floppy).
 
 Written for a retro PC that has to play music from a home server over plain HTTP on a local network.
 
+<img width="682" height="625" alt="nav-xp" src="https://github.com/user-attachments/assets/05dbf15b-cf01-4f6a-aadb-dacebbf0d616" />
+
 ## Features
 
 - Library browser (artists / albums / tracks), playlists, favorites (starred), search
